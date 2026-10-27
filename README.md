@@ -9,7 +9,6 @@ Here is a selection of my repositories.
 
 | Repository | Description |
 |---|---|
-| [ai-review-configs](https://github.com/exadmin/ai-review-configs) | Shared configurations and prompts for running AI Review across multiple repositories. |
 | [task-drop](https://github.com/exadmin/task-drop) | Voice input for AI agent tasks, with hotkey recording, speech recognition, and saved transcripts. |
 
 ### Sensitive data detection and prevention 🔍
