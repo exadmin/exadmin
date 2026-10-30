@@ -35,6 +35,8 @@ Here is a selection of my repositories.
 
 ### Hardware and local models 🖥️
 
+- [nvidia-smi-to-web](https://github.com/exadmin/nvidia-smi-to-web): A lightweight Java 21+ web dashboard for NVIDIA GPU metrics, with four hours of in-memory history, powered by nvidia-smi.
+
 - [teslap100-gigabyteh370hd3](https://github.com/exadmin/TeslaP100-GigabyteH370HD3): Setup notes for one or two Tesla P100 GPUs on a Gigabyte H370 HD3, covering BIOS, drivers, and local models with Ollama.
 
 ### Algorithms and practice 🧩
